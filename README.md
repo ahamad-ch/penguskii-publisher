@@ -2,15 +2,15 @@
 
 Public informational pages for the private Penguskii publishing tool. This repository contains only website files and brand assets. It contains no publishing credentials, queues or private project source.
 
-- Homepage: https://ahamad-ch.github.io/penguskii-publisher/
-- Privacy: https://ahamad-ch.github.io/penguskii-publisher/privacy.html
-- Terms: https://ahamad-ch.github.io/penguskii-publisher/terms.html
+- Homepage: https://penguskii.github.io/penguskii-publisher/
+- Privacy: https://penguskii.github.io/penguskii-publisher/privacy.html
+- Terms: https://penguskii.github.io/penguskii-publisher/terms.html
 
 GitHub Pages deploys the root of the `main` branch. No build dependencies or analytics. Preview with `python3 -m http.server 8766`.
 
 ## Google setup
 
-Use the URLs above in Google Auth Platform → Branding. Authorized domain: `ahamad-ch.github.io`. Verify control using Google Search Console with a URL-prefix property matching the homepage and its HTML-tag verification method. Add the provided `google-site-verification` meta tag to index.html, publish, then click Verify. Do not publish OAuth tokens or client secrets here. Site verification and OAuth app verification are separate; neither is implied by hosting these pages.
+Use the URLs above in Google Auth Platform → Branding. Authorized domain: `penguskii.github.io`. Verify control using Google Search Console with a URL-prefix property matching the homepage and its HTML-tag verification method. Add the provided `google-site-verification` meta tag to index.html, publish, then click Verify. Do not publish OAuth tokens or client secrets here. Site verification and OAuth app verification are separate; neither is implied by hosting these pages.
 
 ## Privacy operations
 
